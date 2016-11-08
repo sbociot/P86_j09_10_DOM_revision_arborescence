@@ -10,3 +10,5 @@
 // document.getElementById('promo').innerHTML
 //var element = document.getElementById('nouvelles').textContent;
 // document.getElementById('nouvelles').innerHTML = element;
+//document.queryselector('#nouvelles h2').innerHTMl = "Nos nouvelles";
+document.getElementById('nouvelles').innerHTML = 'Voici nos nouvellles';
